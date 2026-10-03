@@ -1,0 +1,5 @@
+venv/
+house_prices_cleaned.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc

@@ -1,0 +1,6 @@
+*.pkl binary
+*.joblib binary
+*.json binary
+*.csv binary
+*.h5 binary
+*.model binary
